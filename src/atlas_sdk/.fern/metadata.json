@@ -1,0 +1,12 @@
+{
+  "cliVersion": "5.18.1",
+  "generatorName": "fernapi/fern-python-sdk",
+  "generatorVersion": "5.12.1",
+  "generatorConfig": {
+    "package_name": "atlas_sdk",
+    "client_class_name": "AtlasClient"
+  },
+  "originGitCommit": "7f5ff764bc76202846d22e08c8fe9c2f46e4d678",
+  "originGitCommitIsDirty": true,
+  "invokedBy": "manual"
+}
